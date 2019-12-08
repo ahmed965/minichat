@@ -1,7 +1,4 @@
-# minichat
-exemple PHP
-# minichat
-exemple PHP
+example PHP
 simple PHP exercice you can learn how to create minichat with database 
 
 Author: Ahmed Bouzguenda
