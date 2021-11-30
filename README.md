@@ -1,6 +1,6 @@
 example PHP
 
-simple PHP exercice you can learn how to create minichat with database 
+simple PHP exercice to create minichat with database 
 
 Author: Ahmed Bouzguenda
 
